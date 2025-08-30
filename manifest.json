@@ -281,7 +281,7 @@
       "link": "Enter link here"
     },
     "HollywoodFX.zip": {
-      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/HollywoodFX.zip",
+      "url": "https://github.com/Yasumi-CozyGaming/CozyGaming-Tarkov/raw/refs/heads/main/HollywoodFX.zip",
       "hash": "5d3424e45a427b47b04bb3c3f6bc9305f96884f9",
       "version": "1.0.0",
       "required": false,
