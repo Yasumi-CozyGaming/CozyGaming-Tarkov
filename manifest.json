@@ -181,7 +181,7 @@
       "link": "Enter link here"
     },
     "DrakiaXYZ-Waypoints.zip": {
-      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/DrakiaXYZ-Waypoints.zip",
+      "url": "https://github.com/Yasumi-CozyGaming/CozyGaming-Tarkov/raw/refs/heads/main/DrakiaXYZ-Waypoints.zip",
       "hash": "1414b46f6488c15f7d29f1f051bbbdda214ac9b3",
       "version": "1.0.0",
       "required": false,
@@ -581,7 +581,7 @@
       "link": "Enter link here"
     },
     "ssh.zip": {
-      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/ssh.zip",
+      "url": "https://github.com/Yasumi-CozyGaming/CozyGaming-Tarkov/raw/refs/heads/main/ssh.zip",
       "hash": "26666cc118e7fe9691c22193b9c1a592e8e1215b",
       "version": "1.0.0",
       "required": false,
