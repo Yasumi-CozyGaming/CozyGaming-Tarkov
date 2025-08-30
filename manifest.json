@@ -1,0 +1,734 @@
+{
+  "files": {
+    "acidphantasm-moretagcolours.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/acidphantasm-moretagcolours.dll",
+      "hash": "cd53f2cc31cafdfda92c99afbab56892f3c86583",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "ActuallyFoundInRaid.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/ActuallyFoundInRaid.dll",
+      "hash": "e38675562d4ef323e621f17418ca6305259619c8",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "AmandsGraphics.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/AmandsGraphics.dll",
+      "hash": "3cab2c0922e32ffb3d7c8ddc11d131a1ee811b7d",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "AmandsHitmarker.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/AmandsHitmarker.dll",
+      "hash": "3259e056f85c729ef111829ae416021561d436a2",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "AmandsSense.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/AmandsSense.dll",
+      "hash": "64de66ade7d455ff0d2c5529e51cbb750dea7c73",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "BeltSlot.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/BeltSlot.dll",
+      "hash": "e1f52f523387b84cb505fb21576b7fa9a4b95720",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "BetterArmStamina.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/BetterArmStamina.dll",
+      "hash": "6bbf8c7d861b7e95c762d78092441e1b243ade1c",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "BetterZeroing.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/BetterZeroing.dll",
+      "hash": "eee115f81f9c2474c5ac08211da7617337ca255c",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "BorkelRNVG.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/BorkelRNVG.zip",
+      "hash": "18de02d9d4c84c5399c480e3c849f15e43ac5d84",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "BossNotifier.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/BossNotifier.dll",
+      "hash": "b6b507fa9598cf4f7529e08a7f63dee56af0d197",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "BossNotifier.Fika.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/BossNotifier.Fika.dll",
+      "hash": "1ef38d50f42ae0c60cf7784e22cf02be2e83ca64",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "ChooChoo-TraderModding.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/ChooChoo-TraderModding.dll",
+      "hash": "adc9427c7e2f71bbc09c110cb9f31ba75478f768",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "ContinuousHealing.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/ContinuousHealing.dll",
+      "hash": "0662af7376ee2985545d2ed36a62223519b60d07",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "ContinuousLoadAmmo.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/ContinuousLoadAmmo.dll",
+      "hash": "54b4b9f4c60db66247e78c94d880ee80326fce19",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "DrakiaXYZ-BigBrain.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/DrakiaXYZ-BigBrain.dll",
+      "hash": "07bcaf8fcd8c0658bcac010331a3fdc6e141022b",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "DrakiaXYZ-GildedKeyStorage.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/DrakiaXYZ-GildedKeyStorage.dll",
+      "hash": "958fe85dc2e3f46a4ae07365c5e4c781247d2473",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "DrakiaXYZ-SearchOpenContainers.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/DrakiaXYZ-SearchOpenContainers.dll",
+      "hash": "7ec92b15d8f46cc793bfcef15359e1e9634c6ff5",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "DrakiaXYZ-TaskListFixes.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/DrakiaXYZ-TaskListFixes.dll",
+      "hash": "fba26734935c9287e66ebdaf906e1cb2399451ae",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "DrakiaXYZ-Waypoints.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/DrakiaXYZ-Waypoints.zip",
+      "hash": "1414b46f6488c15f7d29f1f051bbbdda214ac9b3",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "DynamicExternalResolution.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/DynamicExternalResolution.dll",
+      "hash": "b90a5ef6b965fdbb2ba6f8332503b36439bc1ca3",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "DynamicMaps.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/DynamicMaps.zip",
+      "hash": "116abd2cdea7b077f35512f6c3dd39bfb656bc09",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Fika.Core.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Fika.Core.dll",
+      "hash": "9ec590ccabcc46d6aafa4164e94d01931dd7c2d0",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "FOVFix.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/FOVFix.dll",
+      "hash": "1da4d9930b14be31a565d3668b6cc17c40425d8b",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Gaylatea-UseLooseLoot.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Gaylatea-UseLooseLoot.dll",
+      "hash": "bcb7dd3163c620e8ef7efd216280b6714e420b73",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "HallOfFameImprovements.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/HallOfFameImprovements.dll",
+      "hash": "0f0e0387aa11482b0446840d561f91b6f25314a0",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "HandsAreNotBusy.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/HandsAreNotBusy.dll",
+      "hash": "752c273adc4a7415108eba259cd0d1a48ea06054",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "HideTopGlow.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/HideTopGlow.dll",
+      "hash": "3436c65ef1dd44c6ad10073f7c1d57f3faf9ff28",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Hitmarker.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Hitmarker.zip",
+      "hash": "aa0d46764cb49c42a40dd5181a026c60591493f5",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "HollywoodFX.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/HollywoodFX.zip",
+      "hash": "5d3424e45a427b47b04bb3c3f6bc9305f96884f9",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "IcyClawz.CustomInteractions.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/IcyClawz.CustomInteractions.dll",
+      "hash": "39e4beea681e6832edc8dd578a019126b1ec921e",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "IcyClawz.ItemAttributeFix.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/IcyClawz.ItemAttributeFix.dll",
+      "hash": "375974e4bec99448a1f1019aae69809b0a15e224",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "IcyClawz.ItemContextMenuExt.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/IcyClawz.ItemContextMenuExt.dll",
+      "hash": "e4072425d1ea1de74a99a33c9cfd10427e045219",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "IcyClawz.ItemSellPrice.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/IcyClawz.ItemSellPrice.dll",
+      "hash": "10f4d2e29c40a3bd54715c43e06dc2b255530654",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "IcyClawz.MagazineInspector.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/IcyClawz.MagazineInspector.dll",
+      "hash": "4f9bce5eb7bdd71bec0c73ecf5d9d234f53111e2",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "IcyClawz.MunitionsExpert.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/IcyClawz.MunitionsExpert.dll",
+      "hash": "9096c468ce504935822dbdc80c443b540b2b0ea8",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "IhanaMies-HealingAutoCancel.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/IhanaMies-HealingAutoCancel.dll",
+      "hash": "4805bfc25bf490e902fc2ea32a8e5505283057ce",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Kaeno-TraderScrolling.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Kaeno-TraderScrolling.dll",
+      "hash": "809b9ee3a7b560b2861c99807644070e3c7ee37d",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Kat.BetterAmmoLoadingList.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Kat.BetterAmmoLoadingList.dll",
+      "hash": "07fcd73e0e17ff0556a69571f3f6483a47761933",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "kmyuhkyuk-GamePanelHUD.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/kmyuhkyuk-GamePanelHUD.zip",
+      "hash": "c16fc6733c7b99e28f0fed5caa4944644ac357ac",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "kmyuhkyuk-KmyTarkovApi.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/kmyuhkyuk-KmyTarkovApi.zip",
+      "hash": "419d25377b20218a28dc1eebb6f7e104f41c40fe",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "MaxDura.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/MaxDura.dll",
+      "hash": "d5612803b3a2f8f467a5d83b36774bc21d6fbb69",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "MenuOverhaul.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/MenuOverhaul.zip",
+      "hash": "c41bcbf8bc9c889ce71dadb60a3fd6d6d4351ab5",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "MergeConsumables.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/MergeConsumables.dll",
+      "hash": "672b3080c47eb164192968eb4e28c2042f2b0c19",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "MOAR.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/MOAR.dll",
+      "hash": "9a49c9ce8453a9fad4f7bedcaf60dea2acc7a8ea",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "MoreCheckmarks.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/MoreCheckmarks.zip",
+      "hash": "5ece969359ed2be79635b4d85067a87668f030d3",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "MoxoPixel-AdvancedModdingLights.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/MoxoPixel-AdvancedModdingLights.dll",
+      "hash": "2113fe9a26a3d8dc9f872bbc73943c033163884b",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "PlayerEncumbranceBar.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/PlayerEncumbranceBar.zip",
+      "hash": "c8bf605354d1b2c35fd62234705224016fdb0427",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "QuickSell.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/QuickSell.zip",
+      "hash": "51043593f09f2cf47e2cbcc826b475064a48a5e0",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "RaidReview.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/RaidReview.dll",
+      "hash": "f4fc8d0e60301a7f1607a9126beb078f7b006ac8",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "RGBLasers.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/RGBLasers.dll",
+      "hash": "8689b0d72adac6f7232a27fcc136ddfa86f241f4",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "rpmwpm.UnderFire.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/rpmwpm.UnderFire.dll",
+      "hash": "ec91566c9e93cba73471424445da6b6d76e4500c",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "SAIN.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/SAIN.zip",
+      "hash": "ceeb1244354e5a6483cc37c0611d3b859ac9ee05",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "SamSWAT.ReflexSightsRework.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/SamSWAT.ReflexSightsRework.dll",
+      "hash": "4f570f5f99125b264e0e1dc74c23faacf6a41fec",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Sense.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Sense.zip",
+      "hash": "bca837415953b122e3101ba37e298ea9a7ba14a7",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "skwizzy.LootingBots.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/skwizzy.LootingBots.dll",
+      "hash": "5ea5a896984a8f6a4c1c89dc94c6b68e0081ce90",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "SPTBattleAmbience.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/SPTBattleAmbience.zip",
+      "hash": "664b4c25c89b8038dfbb416142c69144ae2b5f92",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "SPTScopeTweaks.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/SPTScopeTweaks.dll",
+      "hash": "1919703d3a0139abaab7a50f69f9e95434fe2050",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "SPTVRAMCleaner.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/SPTVRAMCleaner.dll",
+      "hash": "5e81246caaf6492c616ad77468f85da766427a0f",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "ssh.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/ssh.zip",
+      "hash": "26666cc118e7fe9691c22193b9c1a592e8e1215b",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "StashSearch.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/StashSearch.zip",
+      "hash": "55b8f22786d7235e54e083cf34c657a6b5de0a3c",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "StationRefuelling.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/StationRefuelling.dll",
+      "hash": "7bd8358c4627e9b2d9a10ff85bce1ae13493ef4c",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Transmog.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Transmog.dll",
+      "hash": "79537b3953e1ca38af9f4c00ae4c5481965c057f",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Tyfon.HideoutInProgress.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Tyfon.HideoutInProgress.dll",
+      "hash": "91d0da48b3008d32e3c27b0bbcf86d1890412fc6",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Tyfon.UIFixes.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Tyfon.UIFixes.dll",
+      "hash": "133e947109a3d45b8e55df4c0af5f158448c2b58",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Tyfon.UIFixes.Net.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Tyfon.UIFixes.Net.dll",
+      "hash": "18feaa088389728cf00d2b68f84fc12e6098c29c",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "Tyfon.WeaponCustomizer.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/Tyfon.WeaponCustomizer.dll",
+      "hash": "8cd2eaa2dc2ee9fa248af8bc09a1620f1e468523",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "UseItemsAnywhere.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/UseItemsAnywhere.dll",
+      "hash": "a28c4188e89086d522508e66e5cfed9480a48091",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "VCQLQuestZones.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/VCQLQuestZones.dll",
+      "hash": "b7c602f07c1029fbb48b8e023b665c856c2ad068",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "VisceralCombat.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/VisceralCombat.dll",
+      "hash": "83f09616b9b41a26cfb1a4454299e622ac67b2d2",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "VisualAssist.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/VisualAssist.dll",
+      "hash": "b219f785a00cb59583e2547abe79ef8584793eba",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "VolumetricBloodFX.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/VolumetricBloodFX.dll",
+      "hash": "7c5ba6847eed3707bd43b9e661dffb4219142817",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "WTT-Armory.dll": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/WTT-Armory.dll",
+      "hash": "35dfe606c9cadf84196b3ed8254f23fc690c7f45",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": false,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    },
+    "WTT-VoicePatcher.zip": {
+      "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/WTT-VoicePatcher.zip",
+      "hash": "cdeabfcd099032eb2a40cf72c743c08c676fa017",
+      "version": "1.0.0",
+      "required": false,
+      "dependencies": [],
+      "is_folder": true,
+      "note": "Enter description here",
+      "link": "Enter link here"
+    }
+  }
+}
