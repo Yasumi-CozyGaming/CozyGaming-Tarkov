@@ -287,7 +287,7 @@
       "required": false,
       "dependencies": [],
       "is_folder": true,
-      "note": "Enter description here",
+      "note": "Test New",
       "link": "Enter link here"
     },
     "IcyClawz.CustomInteractions.dll": {
