@@ -288,8 +288,8 @@
       "dependencies": [],
       "is_folder": true,
       "display_name": "HollywoodFX",
-      "note": "Test NEWNew",
-      "link": "Enter link here"
+      "note": "Make battles look cinematic and immersive by rebuilding almost every single impact and special effect from scratch. Realism is not the aim, but the mod doesn't go overboard.",
+      "link": "https://hub.sp-tarkov.com/files/file/2683-hollywoodfx"
     },
     "IcyClawz.CustomInteractions.dll": {
       "url": "https://raw.githubusercontent.com/Yasumi-CozyGaming/CozyGaming-Tarkov/main/IcyClawz.CustomInteractions.dll",
